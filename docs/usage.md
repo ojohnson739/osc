@@ -17,3 +17,4 @@ Notes and usage details for osc.
 - link the usage section
 - fix a small wording issue
 - add a note about the defaults
+- add a note about the defaults
