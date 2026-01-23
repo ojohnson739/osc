@@ -33,3 +33,4 @@ Notes and usage details for osc.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- clarify the setup steps
